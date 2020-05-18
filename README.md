@@ -11,4 +11,9 @@ Installs required dependecies
 
 Runs the app at http://localhost:3000
 
+### `Output`
+![alt text](https://i.ibb.co/bmCB8cq/myntra-tasks.png)
+
+
+
 
